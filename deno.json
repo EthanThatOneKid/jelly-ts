@@ -1,0 +1,15 @@
+{
+  "name": "@fartlabs/jelly",
+  "version": "0.0.1",
+  "license": "MIT",
+  "exports": "./mod.ts",
+  "imports": {
+    "@bufbuild/protobuf": "npm:@bufbuild/protobuf@^2.10.2"
+  },
+  "lint": {
+    "exclude": ["./jelly/rdf.ts"]
+  },
+  "fmt": {
+    "exclude": ["./jelly/rdf.ts"]
+  }
+}
