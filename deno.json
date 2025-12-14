@@ -4,7 +4,9 @@
   "license": "MIT",
   "exports": "./mod.ts",
   "imports": {
-    "@bufbuild/protobuf": "npm:@bufbuild/protobuf@^2.10.2"
+    "@bufbuild/protobuf": "npm:@bufbuild/protobuf@^2.10.2",
+    "@types/n3": "npm:@types/n3@^1.26.1",
+    "n3": "npm:n3@^1.26.0"
   },
   "lint": {
     "exclude": ["./jelly/rdf.ts"]
