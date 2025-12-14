@@ -7,7 +7,7 @@
 Super-fast [Jelly RDF](https://jelly-rdf.github.io/dev/) serialization for
 TypeScript.
 
-## Reference
+## Acknowledgments
 
 - [Jelly RDF source code](https://github.com/Jelly-RDF/jelly-protobuf)
 
